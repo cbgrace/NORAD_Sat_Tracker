@@ -1,0 +1,358 @@
+At time: 2023-10-24 04:03:06, STARLINK-30502 will: rise above 30°
+	(Sunlit: in shadow, Forecast: Overcast)
+	Altitude: 30.167°, Azimuth: 227.121° (West-South West), Distance: 741.1 km
+
+At time: 2023-10-24 04:04:31, STARLINK-30502 will: culminate
+	(Sunlit: in shadow, Forecast: Overcast)
+	Altitude: 69.074°, Azimuth: 151.449° (South-South East), Distance: 430.0 km
+
+At time: 2023-10-24 04:05:57, STARLINK-30502 will: set below 30°
+	(Sunlit: in shadow, Forecast: Overcast)
+	Altitude: 30.005°, Azimuth: 75.031° (East-North East), Distance: 746.2 km
+
+At time: 2023-10-24 08:55:39, STARLINK-30502 will: rise above 30°
+	(Sunlit: in sunlight, Forecast: Partially cloudy)
+	Altitude: 30.140°, Azimuth: 315.407° (North West), Distance: 748.3 km
+
+At time: 2023-10-24 08:57:01, STARLINK-30502 will: culminate
+	(Sunlit: in sunlight, Forecast: Partially cloudy)
+	Altitude: 57.445°, Azimuth: 23.105° (North-North East), Distance: 476.2 km
+
+At time: 2023-10-24 08:58:23, STARLINK-30502 will: set below 30°
+	(Sunlit: in sunlight, Forecast: Partially cloudy)
+	Altitude: 29.824°, Azimuth: 89.591° (East), Distance: 752.7 km
+
+At time: 2023-10-25 03:10:34, STARLINK-30502 will: rise above 30°
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Altitude: 30.132°, Azimuth: 192.114° (South-South West), Distance: 755.7 km
+
+At time: 2023-10-25 03:11:37, STARLINK-30502 will: culminate
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Altitude: 40.489°, Azimuth: 147.359° (South-South East), Distance: 609.2 km
+
+At time: 2023-10-25 03:12:41, STARLINK-30502 will: set below 30°
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Altitude: 30.017°, Azimuth: 102.068° (East-South East), Distance: 759.6 km
+
+At time: 2023-10-25 04:47:55, STARLINK-30502 will: rise above 30°
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Altitude: 29.952°, Azimuth: 301.103° (West-North West), Distance: 763.5 km
+
+At time: 2023-10-25 04:48:55, STARLINK-30502 will: culminate
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Altitude: 38.553°, Azimuth: 342.572° (North-North West), Distance: 634.8 km
+
+At time: 2023-10-25 04:49:55, STARLINK-30502 will: set below 30°
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Altitude: 30.092°, Azimuth: 24.217° (North-North East), Distance: 761.9 km
+
+At time: 2023-10-25 08:03:28, STARLINK-30502 will: rise above 30°
+	(Sunlit: in sunlight, Forecast: Partially cloudy)
+	Altitude: 30.102°, Azimuth: 332.040° (North-North West), Distance: 764.1 km
+
+At time: 2023-10-25 08:04:33, STARLINK-30502 will: culminate
+	(Sunlit: in sunlight, Forecast: Partially cloudy)
+	Altitude: 40.891°, Azimuth: 17.907° (North-North East), Distance: 610.4 km
+
+At time: 2023-10-25 08:05:39, STARLINK-30502 will: set below 30°
+	(Sunlit: in sunlight, Forecast: Partially cloudy)
+	Altitude: 29.932°, Azimuth: 64.401° (East-North East), Distance: 766.4 km
+
+At time: 2023-10-25 09:40:57, STARLINK-30502 will: rise above 30°
+	(Sunlit: in sunlight, Forecast: Partially cloudy)
+	Altitude: 30.044°, Azimuth: 250.562° (West-South West), Distance: 763.7 km
+
+At time: 2023-10-25 09:41:52, STARLINK-30502 will: culminate
+	(Sunlit: in sunlight, Forecast: Partially cloudy)
+	Altitude: 36.748°, Azimuth: 213.147° (South-South West), Distance: 658.0 km
+
+At time: 2023-10-25 09:42:46, STARLINK-30502 will: set below 30°
+	(Sunlit: in sunlight, Forecast: Partially cloudy)
+	Altitude: 30.035°, Azimuth: 176.456° (South-South East), Distance: 762.4 km
+
+At time: 2023-10-26 03:57:16, STARLINK-30502 will: rise above 30°
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Altitude: 30.105°, Azimuth: 276.824° (West-North West), Distance: 772.7 km
+
+At time: 2023-10-26 03:58:37, STARLINK-30502 will: culminate
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Altitude: 52.476°, Azimuth: 338.925° (North-North West), Distance: 521.5 km
+
+At time: 2023-10-26 03:59:58, STARLINK-30502 will: set below 30°
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Altitude: 30.111°, Azimuth: 40.801° (North-North East), Distance: 774.3 km
+
+At time: 2023-10-26 07:13:54, STARLINK-30502 will: rise above 30°
+	(Sunlit: in sunlight, Forecast: Partially cloudy)
+	Altitude: 30.044°, Azimuth: 348.749° (North-North West), Distance: 778.6 km
+
+At time: 2023-10-26 07:14:33, STARLINK-30502 will: culminate
+	(Sunlit: in sunlight, Forecast: Partially cloudy)
+	Altitude: 32.954°, Azimuth: 13.727° (North-North East), Distance: 727.5 km
+
+At time: 2023-10-26 07:15:13, STARLINK-30502 will: set below 30°
+	(Sunlit: in sunlight, Forecast: Partially cloudy)
+	Altitude: 30.021°, Azimuth: 39.381° (North-North East), Distance: 778.7 km
+
+At time: 2023-10-26 08:50:45, STARLINK-30502 will: rise above 30°
+	(Sunlit: in sunlight, Forecast: Rain, Partially cloudy)
+	Altitude: 30.067°, Azimuth: 278.472° (West-North West), Distance: 777.4 km
+
+At time: 2023-10-26 08:52:11, STARLINK-30502 will: culminate
+	(Sunlit: in sunlight, Forecast: Rain, Partially cloudy)
+	Altitude: 59.432°, Azimuth: 209.732° (South-South West), Distance: 485.3 km
+
+At time: 2023-10-26 08:53:37, STARLINK-30502 will: set below 30°
+	(Sunlit: in sunlight, Forecast: Rain, Partially cloudy)
+	Altitude: 29.865°, Azimuth: 141.622° (South-South East), Distance: 779.2 km
+
+At time: 2023-10-27 03:09:03, STARLINK-30502 will: rise above 30°
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Moon is Waxing Gibbous, satellite may be obscured.
+	Altitude: 30.154°, Azimuth: 255.571° (West-South West), Distance: 781.8 km
+
+At time: 2023-10-27 03:10:34, STARLINK-30502 will: culminate
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Moon is Waxing Gibbous, satellite may be obscured.
+	Altitude: 73.761°, Azimuth: 334.352° (North-North West), Distance: 443.7 km
+
+At time: 2023-10-27 03:12:06, STARLINK-30502 will: set below 30°
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Moon is Waxing Gibbous, satellite may be obscured.
+	Altitude: 30.107°, Azimuth: 55.038° (East-North East), Distance: 785.1 km
+
+At time: 2023-10-27 08:03:03, STARLINK-30502 will: rise above 30°
+	(Sunlit: in sunlight, Forecast: Rain, Partially cloudy)
+	Altitude: 30.020°, Azimuth: 295.459° (West-North West), Distance: 790.3 km
+
+At time: 2023-10-27 08:04:37, STARLINK-30502 will: culminate
+	(Sunlit: in sunlight, Forecast: Rain, Partially cloudy)
+	Altitude: 88.079°, Azimuth: 204.185° (South-South West), Distance: 429.5 km
+
+At time: 2023-10-27 08:06:11, STARLINK-30502 will: set below 30°
+	(Sunlit: in sunlight, Forecast: Rain, Partially cloudy)
+	Altitude: 29.892°, Azimuth: 118.317° (East-South East), Distance: 790.8 km
+
+At time: 2023-10-28 02:22:51, STARLINK-30502 will: rise above 30°
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Full, satellite may be obscured.
+	Altitude: 29.972°, Azimuth: 235.465° (West-South West), Distance: 793.2 km
+
+At time: 2023-10-28 02:24:25, STARLINK-30502 will: culminate
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Full, satellite may be obscured.
+	Altitude: 79.739°, Azimuth: 150.500° (South-South East), Distance: 438.5 km
+
+At time: 2023-10-28 02:25:59, STARLINK-30502 will: set below 30°
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Full, satellite may be obscured.
+	Altitude: 29.889°, Azimuth: 68.863° (East-North East), Distance: 797.8 km
+
+At time: 2023-10-28 04:02:14, STARLINK-30502 will: rise above 30°
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Full, satellite may be obscured.
+	Altitude: 30.008°, Azimuth: 344.052° (North-North West), Distance: 798.1 km
+
+At time: 2023-10-28 04:02:22, STARLINK-30502 will: culminate
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Full, satellite may be obscured.
+	Altitude: 30.104°, Azimuth: 348.895° (North-North West), Distance: 796.3 km
+
+At time: 2023-10-28 04:02:30, STARLINK-30502 will: set below 30°
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Full, satellite may be obscured.
+	Altitude: 29.994°, Azimuth: 353.734° (North-North West), Distance: 798.5 km
+
+At time: 2023-10-28 07:17:15, STARLINK-30502 will: rise above 30°
+	(Sunlit: in sunlight, Forecast: Rain, Partially cloudy)
+	Altitude: 30.069°, Azimuth: 308.441° (West-North West), Distance: 798.7 km
+
+At time: 2023-10-28 07:18:47, STARLINK-30502 will: culminate
+	(Sunlit: in sunlight, Forecast: Rain, Partially cloudy)
+	Altitude: 67.612°, Azimuth: 24.142° (North-North East), Distance: 467.9 km
+
+At time: 2023-10-28 07:20:19, STARLINK-30502 will: set below 30°
+	(Sunlit: in sunlight, Forecast: Rain, Partially cloudy)
+	Altitude: 29.929°, Azimuth: 99.225° (East-South East), Distance: 799.9 km
+
+At time: 2023-10-29 01:38:12, STARLINK-30502 will: rise above 30°
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 30.142°, Azimuth: 214.631° (South-South West), Distance: 795.1 km
+
+At time: 2023-10-29 01:39:38, STARLINK-30502 will: culminate
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 56.205°, Azimuth: 148.967° (South-South East), Distance: 516.1 km
+
+At time: 2023-10-29 01:41:04, STARLINK-30502 will: set below 30°
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 30.089°, Azimuth: 84.017° (East-North East), Distance: 799.2 km
+
+At time: 2023-10-29 03:16:42, STARLINK-30502 will: rise above 30°
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 29.994°, Azimuth: 313.734° (West-North West), Distance: 803.4 km
+
+At time: 2023-10-29 03:17:32, STARLINK-30502 will: culminate
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 34.724°, Azimuth: 345.317° (North-North West), Distance: 722.6 km
+
+At time: 2023-10-29 03:18:22, STARLINK-30502 will: set below 30°
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 30.071°, Azimuth: 16.946° (North-North East), Distance: 802.9 km
+
+At time: 2023-10-29 06:32:45, STARLINK-30502 will: rise above 30°
+	(Sunlit: in sunlight, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 30.081°, Azimuth: 319.616° (North-North West), Distance: 804.6 km
+
+At time: 2023-10-29 06:34:09, STARLINK-30502 will: culminate
+	(Sunlit: in sunlight, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 51.742°, Azimuth: 21.068° (North-North East), Distance: 547.9 km
+
+At time: 2023-10-29 06:35:33, STARLINK-30502 will: set below 30°
+	(Sunlit: in sunlight, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 29.928°, Azimuth: 82.120° (East-North East), Distance: 806.5 km
+
+At time: 2023-10-30 00:54:27, STARLINK-30502 will: rise above 30°
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 30.010°, Azimuth: 189.736° (South-South West), Distance: 798.8 km
+
+At time: 2023-10-30 00:55:32, STARLINK-30502 will: culminate
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 39.443°, Azimuth: 146.500° (South-South East), Distance: 655.8 km
+
+At time: 2023-10-30 00:56:37, STARLINK-30502 will: set below 30°
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 29.951°, Azimuth: 103.544° (East-South East), Distance: 802.5 km
+
+At time: 2023-10-30 02:32:10, STARLINK-30502 will: rise above 30°
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 29.991°, Azimuth: 295.368° (West-North West), Distance: 804.0 km
+
+At time: 2023-10-30 02:33:20, STARLINK-30502 will: culminate
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 41.352°, Azimuth: 342.452° (North-North West), Distance: 637.7 km
+
+At time: 2023-10-30 02:34:30, STARLINK-30502 will: set below 30°
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 29.972°, Azimuth: 29.360° (North-North East), Distance: 806.2 km
+
+At time: 2023-10-30 05:48:48, STARLINK-30502 will: rise above 30°
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 30.059°, Azimuth: 330.470° (North-North West), Distance: 806.5 km
+
+At time: 2023-10-30 05:49:58, STARLINK-30502 will: culminate
+	(Sunlit: in shadow, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 41.598°, Azimuth: 17.400° (North-North East), Distance: 637.1 km
+
+At time: 2023-10-30 05:51:09, STARLINK-30502 will: set below 30°
+	(Sunlit: in sunlight, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 30.003°, Azimuth: 65.133° (East-North East), Distance: 807.0 km
+
+At time: 2023-10-30 07:26:41, STARLINK-30502 will: rise above 30°
+	(Sunlit: in sunlight, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 29.997°, Azimuth: 256.210° (West-South West), Distance: 805.9 km
+
+At time: 2023-10-30 07:27:46, STARLINK-30502 will: culminate
+	(Sunlit: in sunlight, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 39.369°, Azimuth: 213.467° (South-South West), Distance: 660.7 km
+
+At time: 2023-10-30 07:28:51, STARLINK-30502 will: set below 30°
+	(Sunlit: in sunlight, Forecast: Rain, Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 30.051°, Azimuth: 170.524° (South-South East), Distance: 803.3 km
+
+At time: 2023-10-31 01:47:24, STARLINK-30502 will: rise above 30°
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 30.034°, Azimuth: 278.121° (West-North West), Distance: 797.6 km
+
+At time: 2023-10-31 01:48:47, STARLINK-30502 will: culminate
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 51.623°, Azimuth: 339.268° (North-North West), Distance: 544.2 km
+
+At time: 2023-10-31 01:50:10, STARLINK-30502 will: set below 30°
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 30.081°, Azimuth: 40.266° (North-North East), Distance: 799.1 km
+
+At time: 2023-10-31 05:04:26, STARLINK-30502 will: rise above 30°
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 29.996°, Azimuth: 343.229° (North-North West), Distance: 802.8 km
+
+At time: 2023-10-31 05:05:16, STARLINK-30502 will: culminate
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 34.589°, Azimuth: 14.850° (North-North East), Distance: 723.6 km
+
+At time: 2023-10-31 05:06:05, STARLINK-30502 will: set below 30°
+	(Sunlit: in shadow, Forecast: Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 30.009°, Azimuth: 45.790° (East-North East), Distance: 802.4 km
+
+At time: 2023-10-31 06:41:39, STARLINK-30502 will: rise above 30°
+	(Sunlit: in sunlight, Forecast: Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 30.033°, Azimuth: 276.415° (West-North West), Distance: 800.6 km
+
+At time: 2023-10-31 06:43:06, STARLINK-30502 will: culminate
+	(Sunlit: in sunlight, Forecast: Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 56.698°, Azimuth: 210.297° (South-South West), Distance: 514.2 km
+
+At time: 2023-10-31 06:44:33, STARLINK-30502 will: set below 30°
+	(Sunlit: in sunlight, Forecast: Partially cloudy)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 29.881°, Azimuth: 144.592° (South-South East), Distance: 802.0 km
+
+At time: 2023-11-01 01:01:07, STARLINK-30502 will: rise above 30°
+	(Sunlit: in shadow, Forecast: Clear)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 30.091°, Azimuth: 259.147° (West-South West), Distance: 782.8 km
+
+At time: 2023-11-01 01:02:37, STARLINK-30502 will: culminate
+	(Sunlit: in shadow, Forecast: Clear)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 69.499°, Azimuth: 334.794° (North-North West), Distance: 454.1 km
+
+At time: 2023-11-01 01:04:09, STARLINK-30502 will: set below 30°
+	(Sunlit: in shadow, Forecast: Clear)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 29.848°, Azimuth: 52.756° (East-North East), Distance: 790.5 km
+
+At time: 2023-11-01 05:54:54, STARLINK-30502 will: rise above 30°
+	(Sunlit: in shadow, Forecast: Clear)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 30.003°, Azimuth: 293.045° (West-North West), Distance: 788.3 km
+
+At time: 2023-11-01 05:56:27, STARLINK-30502 will: culminate
+	(Sunlit: in shadow, Forecast: Clear)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 83.407°, Azimuth: 210.756° (South-South West), Distance: 430.9 km
+
+At time: 2023-11-01 05:58:01, STARLINK-30502 will: set below 30°
+	(Sunlit: in sunlight, Forecast: Clear)
+	Moon is Waning Gibbous, satellite may be obscured.
+	Altitude: 29.896°, Azimuth: 121.750° (East-South East), Distance: 789.2 km
+
+

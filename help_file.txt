@@ -1,0 +1,65 @@
+Satellite Tracker
+
+Explanation:
+-------------
+This application predicts the location of satellites (over the next 10 days) relative to your location.
+To do this, it uses the Skyfield library, documentation for which can be found at this URL:
+https://rhodesmill.org/skyfield/earth-satellites.html
+
+The application also uses the VisualCrossing weather api to predict sunrise, sunset, moonrise, moonset,
+timezone, and an hourly forecast based on your provided address. Documentation:
+https://www.visualcrossing.com/resources/documentation/weather-api/timeline-weather-api/
+
+Satellite data is gathered from celestrak.org, (https://celestrak.org/NORAD/elements/index.php?FORMAT=tle)
+
+
+Filters:
+--------
+"Sunlit Filter": If you are using a normal telescope, satellites will only be visible when they are lit 
+by the sun (the alternative is they are within Earth's shadow). Check this to filter all events where
+the satellite is in Earth's shadow.
+
+"Moonlight Filter": This will use local moonrise/moonset times to filter out events that occur on nights
+when the moon is more than 50% full, and is in the sky. It should be kept in mind that because of the
+relative positions of the moon & satellite, as well as the position of the moon in the sky, the satellite
+may well still be visible. For this reason, using the 'moon warnings' filter instead is recommended. 
+
+"Clear Sky Filter": Will use hourly forecast data to return only events that occur when the hourly
+forecast is clear.
+
+"At Night Filter": Will only return events that happen between sunset and sunrise, which if you are using
+a standard telescope, are the only times you will be able to view a satellite.
+
+"Add Sunlit": Much like the sunlit filter above, except for all results will still be returned, they will
+just have information about whether the satellite is sunlit or not included.
+
+"Add Moon Warnings": If the moon is in the sky and greater than 50% full during a given event, this 
+filter will attach a warning stating this to the results.
+
+"Add Forecasts": Attaches an hourly forecast for the time of each event to the results.
+
+
+Various Buttons:
+----------------
+"List All Satellites": 
+The application provides a list of 20 or so commonly searched satellites, but 
+contains data for over 9,000 satellites. If you wish to see the other options, click this button and
+the complete satellite list will be printed out. Simply copy/paste any name into the 'search' field
+to generate results.
+
+"Export": 
+This button exports whatever data is in the results field to a file called results_export.txt
+
+"Generate Optimal Events":
+Will cycle through each satellite that is listed in the dropdown menu, filtering results so only events
+where the satellite is sunlit, the sky is clear, and it is night are returned.
+
+
+Reading A Satellite Location:
+-----------------------------
+Altitude: 0 degrees is directly on the horizon, 90 degrees is directly above you, the altitude will be
+somewhere from 30 to 90 degrees, so 1/3 of the way up the sky to directly overhead.
+
+Azimuth: I provide a cardinal direction with this output, so should be easy to locate if you use a
+compass & the altitude.
+
